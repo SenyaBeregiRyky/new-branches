@@ -26,3 +26,4 @@ git add BagReport.txt/git commit -m "BagReport.txt"/git push
 Compare
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main-  На внешнем репозитории жмем /Compare&pull request/ пишем комментарий и готово
 10. Синхронизировать Внешнюю и Локальную ветки Main - git pull
+
